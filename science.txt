@@ -1,0 +1,10 @@
+What planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|B
+Water boils at what temperature in Celsius?|90|100|120|80|B
+Which gas do plants absorb?|Oxygen|Carbon Monoxide|Carbon Dioxide|Hydrogen|C
+Which organ pumps blood in the human body?|Brain|Kidney|Lungs|Heart|D
+Which part of the plant conducts photosynthesis?|Stem|Root|Leaf|Flower|C
+Which vitamin is produced in the skin when exposed to sunlight?|Vitamin A|Vitamin B|Vitamin D|Vitamin C|C
+How many bones are there in the adult human body?|206|210|205|201|A
+What is H2O?|Hydrogen Peroxide|Water|Oxygen|Salt|B
+Which scientist proposed the law of gravity?|Einstein|Newton|Galileo|Tesla|B
+Which part of the cell contains genetic material?|Cytoplasm|Nucleus|Cell wall|Mitochondria|B

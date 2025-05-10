@@ -1,0 +1,10 @@
+What is the capital of India?|Mumbai|Delhi|Chennai|Kolkata|B
+Which ocean is the largest?|Atlantic|Arctic|Indian|Pacific|D
+How many continents are there?|5|6|7|8|C
+Who is known as the Father of the Nation in India?|Jawaharlal Nehru|Subhas Chandra Bose|Mahatma Gandhi|B. R. Ambedkar|C
+Which country is called the Land of Rising Sun?|China|South Korea|Japan|Thailand|C
+Which festival is known as the festival of lights?|Holi|Pongal|Diwali|Eid|C
+Which Indian monument is one of the 7 Wonders of the World?|India Gate|Qutub Minar|Taj Mahal|Gateway of India|C
+Which sport is Sachin Tendulkar associated with?|Football|Badminton|Tennis|Cricket|D
+Which is the longest river in the world?|Ganga|Amazon|Yamuna|Nile|D
+Which language is most spoken in the world?|Hindi|Spanish|Mandarin|English|C

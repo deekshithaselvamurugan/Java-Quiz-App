@@ -1,0 +1,10 @@
+Java was developed by?|Google|Sun Microsystems|Microsoft|Apple|B
+Which data structure uses FIFO?|Stack|Queue|Tree|Graph|B
+What is JVM in Java?|Java Variable Method|Java Virtual Machine|Java Value Memory|Java Visual Mode|B
+Which of these is not a programming language?|Python|Java|HTML|C++|C
+Which keyword is used to inherit a class in Java?|this|super|extends|implements|C
+Which company developed C language?|Apple|Microsoft|Bell Labs|Oracle|C
+What does HTML stand for?|Hyper Text Markup Language|High Text Main Language|Hyper Tabular Markup Language|None|A
+Which of these is used to style web pages?|HTML|JavaScript|CSS|SQL|C
+Which loop is guaranteed to execute at least once?|for|while|do-while|if|C
+What is the default value of `int` in Java?|1|0|null|undefined|B
